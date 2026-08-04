@@ -7,9 +7,4 @@
 🌱 Currently sharpening my skills in applied ML and agile development practices
 🧰 Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"> </p>
-🔭 Featured Projects
-Shopping Website — E-commerce app built with React (routing + Redux), Auth0 authentication, cart management, and Firebase integration.
-(Add 1–2 more of your strongest projects here — ideally ones with a README, screenshots, or a live demo link.)
-📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=muneeb0985&show_icons=true&theme=default" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb0985&layout=compact" height="165"> </p>
-<p align="center"><i>Open to opportunities in AI/ML engineering, full-stack development, and QA roles.</i></p>
+
