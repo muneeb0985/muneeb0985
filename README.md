@@ -1,8 +1,1 @@
-Aspiring Software Engineer combining strong technical development skills with practical experience in Software Quality Assurance (SQA) and intelligent system design. Leveraged a solid foundation in React and component-driven architecture to deliver clean user interfaces while simultaneously managing testing lifecycles, executing test case matrices, and tracking bugs via JIRA. Actively applies AI/ML frameworks to engineer data-driven solutions, with hands-on capability in implementing Computer Vision models and integrating Generative AI technologies. A proactive problem solver skilled in agile methodologies, dedicated to writing high-performance code, deploying advanced architectures, and delivering defect-free software.
-Skill
-.)React frontend 
-.) Fast api backend 
-.)Ai ml
-.) Sql database 
-.)gen ai
-.) compvisio
+<h1 align="center">Hi, I'm Syed Muneeb Ahmed 👋</h1> <h3 align="center">Aspiring AI Engineer | Software QA | Full-Stack Developer</h3> <p align="center"> I build data-driven applications and clean user interfaces — with hands-on experience across React front-ends, FastAPI back-ends, Computer Vision, and Generative AI, plus a solid QA background in test design and defect tracking. </p> <p align="center"> <a href="https://www.linkedin.com/in/syed-muneeb-ahmed-696063248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:"muneebahmed1.2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
