@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=150&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=150&section=header&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi, I'm Syed Muneeb Ahmed 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Software+QA+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6A11CB&center=true&vCenter=true&width=400&lines=Aspiring+AI+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muneeb0985&label=Profile%20Views&color=2F80ED&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=muneeb0985&label=Profile%20Views&color=6A11CB&style=for-the-badge" alt="profile views" />
 </p>
 
 <br/>
@@ -72,5 +72,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=100&section=footer"/>
 </p>
