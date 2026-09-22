@@ -1,8 +1,6 @@
-<h1 align="center">Syed Muneeb Ahmed</h1>
+<h1 align="center">Hi I am Syed Muneeb Ahmed</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1500&color=24292F&center=true&vCenter=true&width=550&lines=AI%2FML+Engineer+in+Training+%E2%80%94+Computer+Vision+%C2%B7+NLP+%C2%B7+Generative+AI" alt="Typing SVG" />
-</p>
+<h3 align="center">AI/ML Engineer — Computer Vision · NLP · Generative AI</h3>
 
 <p align="center">
   <sub><b>AI/ML Intern @ Safe x Solution</b> &nbsp;·&nbsp; Open to AI/ML internship opportunities</sub>
