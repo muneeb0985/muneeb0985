@@ -1,4 +1,4 @@
-<h1 align="center">Hi I am Syed Muneeb Ahmed</h1>
+<h1 align="center">👋 Hi I am Syed Muneeb Ahmed</h1>
 
 <h3 align="center">AI/ML Engineer — Computer Vision · NLP · Generative AI</h3>
 
