@@ -13,6 +13,7 @@ AI / ML
 Frameworks & Tools
 <p> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> </p>
 🔥 Featured Projects
+
 Project	Description	Tech
 AI Interviewer	Mock interview platform using fine-tuned BERT for resume analysis and a CV pipeline for posture/confidence tracking (88% accuracy)	Python, BERT, TensorFlow, OpenCV, React
 AI Stress Prediction Engine	Predicts student stress levels from lifestyle data with a real-time Streamlit dashboard (87% accuracy)	Scikit-learn, TensorFlow, Streamlit, MongoDB
