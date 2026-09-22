@@ -1,5 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=150&section=header&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi, I'm Syed Muneeb Ahmed 👋</h1>
-<h3 align="center">Aspiring AI Engineer | Software QA | Full-Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Software+QA+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   I build data-driven applications and clean user interfaces — with hands-on experience across React front-ends, FastAPI back-ends, Computer Vision, and Generative AI, plus a solid QA background in test design and defect tracking.
@@ -10,7 +17,12 @@
   <a href="mailto:muneebahmed1.2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muneeb0985&label=Profile%20Views&color=2F80ED&style=for-the-badge" alt="profile views" />
+</p>
+
 <br/>
+<hr/>
 
 <h3 align="center">🚀 About Me</h3>
 
@@ -23,6 +35,7 @@
 - 🌱 Currently sharpening my skills in applied ML and agile development practices
 
 <br/>
+<hr/>
 
 <h3 align="center">🧰 Tech Stack</h3>
 
@@ -54,4 +67,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muneeb0985/muneeb0985/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muneeb0985/muneeb0985/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=100&section=footer"/>
 </p>
