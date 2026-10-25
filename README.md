@@ -1,143 +1,42 @@
-<h1 align="center">👋 Hi I am Syed Muneeb Ahmed</h1>
+Readme · MD
+<!-- ================= HEADER BANNER ================= --> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14532d,100:3FB950&height=220&section=header&text=Syed%20Muneeb%20Ahmed&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20Engineer&descSize=20&descAlignY=60" /> </p> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=640&lines=Computer+Vision+%C2%B7+NLP+%C2%B7+Generative+AI;React+front-ends+%2B+FastAPI+back-ends;AI%2FML+Intern+%40+Safe+x+Solution;Open+to+AI%2FML+internship+opportunities" alt="Typing SVG" /> </a> </p> <p align="center"> I build data-driven applications and clean user interfaces, with hands-on experience across<br/> <b>React</b>, <b>FastAPI</b>, <b>Computer Vision</b> and <b>Generative AI</b>, plus a solid QA background in test design and defect tracking. </p> <p align="center"> <a href="https://www.linkedin.com/in/syed-muneeb-ahmed-696063248/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a> <a href="mailto:muneebahmed1.2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a> <a href="https://github.com/muneeb0985"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=3FB950" /></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=muneeb0985&label=PROFILE+VIEWS&color=238636&style=flat-square" /> <img src="https://img.shields.io/badge/Status-Open%20to%20Work-238636?style=flat-square" /> <img src="https://img.shields.io/badge/Location-Karachi%2C%20PK-0D1117?style=flat-square&labelColor=161b22" /> </p> <br/> <!-- ================= ABOUT ================= --> <h2 align="center">⚡ About Me</h2> <table align="center" width="100%"> <tr> <td width="50%" valign="top">
 
-<h3 align="center">AI/ML Engineer — Computer Vision · NLP · Generative AI</h3>
+🎓  Education<br/> Studying at SSUET (Sir Syed University of Engineering & Technology)
 
-<p align="center">
-  <sub><b>AI/ML Intern @ Safe x Solution</b> &nbsp;·&nbsp; Open to AI/ML internship opportunities</sub>
-</p>
+</td> <td width="50%" valign="top">
 
-<br/>
+💡  Focus<br/> AI/ML, Computer Vision and Generative AI integrations
 
-<p align="center">
-  I build data-driven applications and clean user interfaces — with hands-on experience across React front-ends, FastAPI back-ends, Computer Vision, and Generative AI, plus a solid QA background in test design and defect tracking.
-</p>
+</td> </tr> <tr> <td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-muneeb-ahmed-696063248/"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&logo=linkedin&logoColor=0A66C2"></a>
-  &nbsp;
-  <a href="mailto:muneebahmed1.2004@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=EA4335"></a>
-</p>
+🛠️  Full Stack<br/> React front-ends, FastAPI back-ends and SQL databases
 
-<br/>
-<hr/>
+</td> <td width="50%" valign="top">
 
-<h3 align="center">About</h3>
+🐞  Quality Assurance<br/> Test case design, execution and bug tracking with JIRA
 
-<br/>
+</td> </tr> <tr> <td colspan="2" align="center">
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+🌱  Currently sharpening my skills in applied ML and agile development practices
 
-🎓 Studying at **SSUET** (Sir Syed University of Engineering & Technology)
-
-</td>
-<td width="50%" valign="top">
-
-💡 Focused on **AI/ML, Computer Vision, and Generative AI** integrations
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🛠️ Comfortable across the stack: **React** front-ends, **FastAPI** back-ends, and **SQL** databases
-
-</td>
-<td width="50%" valign="top">
-
-🐞 Practical experience in **Software Quality Assurance** — test case design, execution, and bug tracking (JIRA)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-🌱 Currently sharpening my skills in applied ML and agile development practices
-
-</td>
-</tr>
-</table>
-
-<br/>
-<hr/>
-
-<h3 align="center">Featured Projects</h3>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**[AI Interviewer](https://github.com/muneeb0985/Deeplearning-project)**
+</td> </tr> </table> <br/> <!-- ================= PROJECTS ================= --> <h2 align="center">🚀 Featured Projects</h2> <table align="center" width="100%"> <tr> <td width="50%" valign="top">
+🎤 AI Interviewer
 
 Mock interview platform using a fine-tuned BERT model for resume analysis, plus a computer vision pipeline tracking posture and confidence with 88% accuracy.
 
-`Python` `BERT` `TensorFlow` `OpenCV` `React`
-
-</td>
-<td width="50%" valign="top">
-
-**[AI Stress Prediction Engine](https://github.com/muneeb0985/Ai-Project)**
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/BERT-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E" /> <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" /> <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8" /> <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" /> </td> <td width="50%" valign="top">
+🧠 AI Stress Prediction Engine
 
 Predicts student stress levels from lifestyle data, with a real-time diagnostic dashboard for 200+ surveyed students at 87% accuracy.
 
-`Scikit-learn` `TensorFlow` `Streamlit` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Continual Learning System](https://github.com/muneeb0985/MachineLearningProject-)**
+<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" /> <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" /> <img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B" /> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" /> </td> </tr> <tr> <td width="50%" valign="top">
+🔄 Continual Learning System
 
 Desktop app that retrains a model on new live data in the background without forgetting previously learned patterns.
 
-`Python` `FastAPI` `PyTorch` `SQL` `React`
-
-</td>
-<td width="50%" valign="top">
-
-**[Full-Stack E-Commerce App](https://github.com/muneeb0985/SHOPPING-WEBSITE)**
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" /> <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" /> </td> <td width="50%" valign="top">
+🛒 Full-Stack E-Commerce App
 
 Single-page store with Redux-managed cart state, Firebase authentication, and REST APIs across 50+ product categories.
 
-`React` `Redux` `Firebase`
-
-</td>
-</tr>
-</table>
-
-<br/>
-<hr/>
-
-<h3 align="center">Tech Stack</h3>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/FastAPI-24292F?style=flat-square&logo=fastapi&logoColor=009688">
-  <img src="https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=FFD43B">
-  <img src="https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Java-24292F?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-24292F?style=flat-square&logo=mysql&logoColor=4479A1">
-  <img src="https://img.shields.io/badge/Firebase-24292F?style=flat-square&logo=firebase&logoColor=FFCA28">
-  <img src="https://img.shields.io/badge/JIRA-24292F?style=flat-square&logo=jira&logoColor=0052CC">
-</p>
-
-<br/>
-<hr/>
-
-<h3 align="center">Contribution Activity</h3>
-
-<br/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muneeb0985/muneeb0985/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muneeb0985/muneeb0985/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muneeb0985/muneeb0985/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=764ABC" /> <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" /> </td> </tr> </table> <br/> <!-- ================= TECH STACK ================= --> <h2 align="center">🧰 Tech Stack</h2> <p align="center"> <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" /> <br/> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" /> <img src="https://img.shields.io/badge/JIRA-0D1117?style=for-the-badge&logo=jira&logoColor=0052CC" /> <br/> <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" /> <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" /> <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" /> <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" /> </p> <br/> <!-- ================= GITHUB STATS ================= --> <h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=muneeb0985&show_icons=true&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&count_private=true&rank_icon=github" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb0985&layout=compact&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=6" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=muneeb0985&theme=dark&background=0D1117&border=30363D&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" /> </p> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb0985&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=3fb950&hide_border=true&radius=8" /> </p> <br/> <!-- ================= CONTRIBUTION SNAKE ================= --> <h2 align="center">🐍 Contribution Activity</h2> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muneeb0985/muneeb0985/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muneeb0985/muneeb0985/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muneeb0985/muneeb0985/output/github-contribution-grid-snake.svg"> </picture> </p> <br/> <!-- ================= CONNECT ================= --> <h2 align="center">🤝 Let's Connect</h2> <p align="center"> Open to <b>AI/ML internships</b> and collaborations. Feel free to reach out! </p> <p align="center"> <a href="https://www.linkedin.com/in/syed-muneeb-ahmed-696063248/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:muneebahmed1.2004@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,50:14532d,100:0D1117&height=120&section=footer" />
